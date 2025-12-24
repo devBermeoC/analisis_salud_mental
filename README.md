@@ -2,9 +2,10 @@
  ## En desarrollo
 Análisis exploratorio de datos sobre salud mental utilizando Python, pandas y visualizaciones.
 ## Tecnologías
- - Python
+- Python
 - pandas
 - matplotlib
 - seaborn
 ## Autor
 Dario Bermeo C
+
